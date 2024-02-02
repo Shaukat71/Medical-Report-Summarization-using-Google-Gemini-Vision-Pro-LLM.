@@ -1,0 +1,4 @@
+apikey = AIzaSyCH5-6ruZd0S44ej010A-HtgSVV1Itway4
+create environment =conda create -p venv python==3.10 -y
+activate environment= conda activate venv/
+install librarys = pip install -r requirements.txt
